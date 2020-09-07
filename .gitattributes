@@ -1,0 +1,2 @@
+# Disables language detection for our very lange .ma binary files 
+*.ma linguist-detectable=false
