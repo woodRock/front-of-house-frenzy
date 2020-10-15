@@ -32,5 +32,5 @@ Press F to order food once near the bar or kitchen.
 Click confirm once food is selected to put into inventory.
 
 ## Video Link
-Game Demo: https://youtu.be/bylMSo0Flwk
-Code Demo: https://www.youtube.com/watch?v=tA1-oZQb5-Y&feature=youtu.be
+- Game Demo: https://youtu.be/bylMSo0Flwk
+- Code Demo: https://www.youtube.com/watch?v=tA1-oZQb5-Y&feature=youtu.be
